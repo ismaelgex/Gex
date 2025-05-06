@@ -218,7 +218,6 @@ section ul li {
 
 .sobre-a {
     color: var(--cor3);
-
 }
 
 .sobre img {
@@ -358,7 +357,6 @@ section img {
     line-height: 1.2;
 }
 
-
 .faca div p {
     max-width: 600px;
     font-size: 15px;
@@ -375,7 +373,6 @@ section img {
     text-decoration: none;
     border-radius: 5px;
     transition: 0.3s;
-    
 }
 
 .faca a:hover {
@@ -387,7 +384,7 @@ section img {
     position: relative;
     display: inline-block;
     padding-bottom: 5px; /* espaço para a linha */
-  }
+}
   
 .texto {
 position: relative;
@@ -415,8 +412,7 @@ animation: desenhaLinha 2s ease-out forwards;
 @keyframes desenhaLinha {
 to {
     stroke-dashoffset: 0;
-}
-}
+}}
   
 
 
@@ -485,7 +481,7 @@ to {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-  }
+}
   
 .oque-res article {
 display: flex;
@@ -507,7 +503,6 @@ margin-right: 10px;
 
 .oque-res article:hover {
     transform: scale(1.08);
-    
 }
 
 
@@ -682,7 +677,6 @@ footer {
     text-decoration: none;
     padding: 5px 25px;
     z-index: 1;
-
 }
 
 
@@ -731,11 +725,7 @@ footer {
     height: 100%;
     width: 100%; 
     z-index: 0;   
-    
-    
 }
-
-
 
 .serv li:hover .item .back {
     opacity: 1;
