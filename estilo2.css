@@ -207,7 +207,7 @@ section ul li {
     position: absolute;
     inset: 0; /* top: 0; right: 0; bottom: 0; left: 0 */
     background-image: url(logo/gex.webp);
-    background-size: auto 75%;                 /* Faz a imagem cobrir toda a área */
+    background-size: auto 75%;    /* Faz a imagem cobrir toda a área */
     background-repeat: no-repeat;          
     background-position: 0% 0%; 
     opacity: 0.3; /* Opacidade da imagem de fundo */
